@@ -1,10 +1,6 @@
-# Cloop
+# Your autonomous engineering team
 
-### Meet your autonomous engineering team
-
-> Approve the plan. Review the PR. Get out of the way.
-
----
+### Approve the plan. Review the PR. Get out of the way.
 
 Cloop is an autonomous engineering control plane that turns your Linear issues into merged pull requests — with planning, execution, verification, and delivery handled end-to-end.
 
