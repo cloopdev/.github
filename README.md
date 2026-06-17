@@ -1,6 +1,6 @@
 # Cloop
 
-### Meet your autonomous engineering team
+### Meet your autonomous engineering control plane
 
 > Approve the plan. Review the PR. Get out of the way.
 
