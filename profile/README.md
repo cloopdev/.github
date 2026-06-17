@@ -1,4 +1,4 @@
-# Your autonomous engineering team
+# Autonomous engineering control plane
 
 ### Approve the plan. Review the PR. Get out of the way.
 
